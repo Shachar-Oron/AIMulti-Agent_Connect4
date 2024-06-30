@@ -17,6 +17,10 @@ Welcome to 4 Connect Agent-Multi! This Python implementation of the classic Conn
     * "ExpectimaxAgent"
     Default values are already defined in the py4.connect file, providing a starting point for experimentation.
 
+<p align="center">
+  <img src="https://github.com/Shachar-Oron/AIMulti-Agent_Connect4/blob/main/WhatsApp%20Image%202024-06-30%20at%2014.15.06_6d8d19c8.jpg?raw=true" alt="level 1" width="45%"/>
+</p>
+
 ## Playing Against Agents
   When *'gameMode'* is set to *'1'*, you can play against intelligent agents.
   Here are a few examples:
